@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ManageRules>
+    <WebURL>http://infoctr/projects/</WebURL>
+    <RecordCentreURL>http://infoctr/ic/</RecordCentreURL>
+    <TermStore></TermStore>
+    <TermGroup>ITIAP</TermGroup>
+    <TermSet>InfoCentre</TermSet>
+    <ProductFamilies>
+        <ProductFamily>
+            <Name>Assessments</Name>
+            <RoutingLocation>InfoCtr - Assessments</RoutingLocation>
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Claims</Name>
+            <RoutingLocation>InfoCtr - Claims</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Finance</Name>
+            <RoutingLocation>InfoCtr - Finance</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Business Intelligence</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>               
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Corporate Services</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Cross Cutting</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Healthcare</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>HR</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>IT</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Marketing ＆ Communications</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Office of the President</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Prevention ＆ Investigation</Name>
+            <RoutingLocation>InfoCtr - Prevention</RoutingLocation>      
+        </ProductFamily>
+        <ProductFamily>
+            <Name>Reviews ＆ Appeals</Name>
+            <RoutingLocation>InfoCtr - Other Content</RoutingLocation>      
+        </ProductFamily>
+    </ProductFamilies>
+</ManageRules>
+<!--
+            Valid Routing Locations are:
+                - InfoCtr - Claims
+                - InfoCtr - Prevention
+                - InfoCtr - Assessments
+                - InfoCtr - Finance
+                - InfoCtr - Other Content
+                    This Location includes the following Product Families:
+                        - Business Intelligence
+                        - Corporate Services
+                        - Cross Cutting
+                        - Healthcare
+                        - HR
+                        - IT
+                        - Marketing & Communications
+                        - Office of the President
+                - Archive - Claims
+                - Archive - Prevention
+                - Archive - Assessments
+                - Archive - Finance
+                - Archive - Other Content
+
+            Valid Product Families are:
+                - Assessments
+                - Business Intelligence
+                - Claims
+                - Corporate Services
+                - Cross Cutting
+                - Finance
+                - Healthcare
+                - HR
+                - IT
+                - Marketing & Communications
+                - Office of the President
+                - Prevention & Investigation
+                - Reviews & Appeals
+
+-->

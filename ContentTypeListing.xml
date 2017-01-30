@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentTypes>
+    <ContentType>
+        <Name>Application Support</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Business Requirements</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Change</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Decision</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Definition Documentation</Name>
+    </ContentType>
+    <ContentType>
+        <Name>External Design</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Implementation Documentation</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Internal Design</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Minutes</Name>
+    </ContentType>
+    <ContentType>
+        <Name>PAR</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Project Charter</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Project Control</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Project Plan</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Project Site Document</Name>
+    </ContentType>
+    <ContentType>
+        <Name>PSC Report</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Risk</Name>
+    </ContentType>
+    <ContentType>
+        <Name>SLA</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Software Development</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Status Report</Name>
+    </ContentType>
+    <ContentType>
+        <Name>TARC</Name>
+    </ContentType>
+    <ContentType>
+        <Name>TEST</Name>
+    </ContentType>
+    <ContentType>
+        <Name>User Documentation</Name>
+    </ContentType>
+    <ContentType>
+        <Name>Vendor Solution</Name>
+    </ContentType>
+</ContentTypes>

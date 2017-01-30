@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ManageContent>
+    <WebURL>http://infoctr/projects/</WebURL>
+    <TermStore></TermStore>
+    <TermGroup></TermGroup>
+    <TermSet></TermSet>
+    <CTGroup>Information Centre Content Types</CTGroup>>
+    <ContentTypes>
+        <InsertCTs>
+            <InsertCT Name="PSC Report" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="SLA" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Status Report" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="TARC" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="TEST" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Business Requirements" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="External Design" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Internal Design" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Project Charter" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Project Plan" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Application Support" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Definition Documentation" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Implementation Documentation" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Minutes" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="PAR" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Project Control" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Software Development" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="User Documentation" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Vendor Solution" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Change" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Issue" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Risk" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+            <InsertCT Name="Decision" ParentCT="Project Site Document" CTGroup="Information Centre Content Types" DocTemplateLocation="" DocTemplateName="">
+                <NewSiteColumns>
+                <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="PPMID" DisplayName="PPM ID" Description="" Type="Text" Required="True" SCGroup="InfoCtr Columns" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="">
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </InsertCT>
+        </InsertCTs>
+        <UpdateCTs>
+            <UpdateCT Name="">
+                <NewSiteColumns>
+                    <!--Valid field types can be found at http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx -->
+                    <!--<SiteColumn InternalName="" DisplayName="" Description="" Type="" Required="" SCGroup="" TermGroup="" TermSet=""
+                                LookupList="" LookupField="" Choices="" >
+                    </SiteColumn>-->
+                </NewSiteColumns>
+                <ExistingSiteColumns>
+                    <!--<SiteColumn DisplayName ="" InternalName="">
+                    </SiteColumn>-->
+                </ExistingSiteColumns>
+            </UpdateCT>
+        </UpdateCTs>
+    </ContentTypes>
+</ManageContent>
